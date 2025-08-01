@@ -4,6 +4,9 @@ BG3
 Characters
 #######################
 
+Naago
+Ranger
+
 Carenza
 Bladesong Wizard
 
@@ -11,9 +14,17 @@ Umbo the Dwarf
 
 Keigen
 Fighter
+Bandit Mercenary
+	Blinding speed
+	Scimitar
 
 Narsis/Merin
 Arcane Trickster
 
 Esbah Nurella
 Warlock
+
+Farinor
+Paladin
+	Longsword and shield
+	No Illithid powers
