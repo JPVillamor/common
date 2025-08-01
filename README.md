@@ -1,2 +1,2 @@
-# commonplace
+# common
 A commonplace book/journal
